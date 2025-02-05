@@ -1,0 +1,20 @@
+.options {
+    display: flex;
+    gap: 8px;
+   
+    
+}
+
+.optionBtn {
+    width: auto;
+    padding: 0 8px;
+    height: 40px;
+    border-radius: 4px;
+    border: solid 3px rgb(182, 181, 181);
+    background-color: rgb(235, 235, 235);
+    font-size: 20px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+h1 {
+    line-height: 1.4;
+}
+
+.hdrAndDescr {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    text-align: left; 
+}
+
+.cafeHeader,
+.cafeDescription {
+    margin: 0;
+}
+
+.cafeHeader {
+    font-size: 40px;
+}
+
+.cafeDescription {
+    font-size: 20px;
+}
