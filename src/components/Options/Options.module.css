@@ -1,9 +1,12 @@
 .options {
     display: flex;
     gap: 8px;
-   
+    margin-top: 16px;
     
 }
+
+
+
 
 .optionBtn {
     width: auto;
@@ -17,4 +20,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
+
