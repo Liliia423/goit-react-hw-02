@@ -6,8 +6,6 @@
 }
 
 
-
-
 .optionBtn {
     width: auto;
     padding: 0 8px;
@@ -21,5 +19,19 @@
     align-items: center;
     justify-content: center;
     
+}
+
+.optionBtn:hover {
+    border: solid 3px rgb(182, 181, 181);
+}
+
+
+.optionBtn:active {
+    background-color: rgb(251, 245, 245);
+}
+
+button:focus,
+button:focus-visible {
+    outline: none;
 }
 

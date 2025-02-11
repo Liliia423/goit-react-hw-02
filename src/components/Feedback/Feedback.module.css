@@ -1,0 +1,17 @@
+.feedbackList {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 16px;
+    gap: 10px;
+}
+
+.feedbackItem {
+    margin: 0;
+}
+
+.poster {
+    text-align: left;
+    font-size: 20px;
+    margin: 16px 0 0 0;
+}
